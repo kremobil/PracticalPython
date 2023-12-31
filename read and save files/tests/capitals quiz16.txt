@@ -1,0 +1,306 @@
+name: 
+
+date: 
+
+                    USA states capitals quiz 16: 
+
+
+16. Capital of Kentucky is:
+	a) Lincoln
+	b) Salem
+	c) Frankfort
+	d) Albany
+
+16. Capital of Delaware is:
+	a) Dover
+	b) Lansing
+	c) Concord
+	d) Helena
+
+16. Capital of South Carolina is:
+	a) Charleston
+	b) Columbia
+	c) Phoenix
+	d) Springfield
+
+16. Capital of Mississippi is:
+	a) St. Paul
+	b) Jefferson City
+	c) Jackson
+	d) Nashville
+
+16. Capital of Massachusetts is:
+	a) Cheyenne
+	b) Albany
+	c) Pierre
+	d) Boston
+
+16. Capital of Colorado is:
+	a) Frankfort
+	b) Denver
+	c) Olympia
+	d) Nashville
+
+16. Capital of Michigan is:
+	a) Lansing
+	b) Hartford
+	c) Lincoln
+	d) Boston
+
+16. Capital of Neveda is:
+	a) Annapolis
+	b) Providence
+	c) Carson City
+	d) Sacramento
+
+16. Capital of New Mexico is:
+	a) Santa Fe
+	b) Trenton
+	c) Lansing
+	d) Montgomery
+
+16. Capital of Idaho is:
+	a) Salt Lake City
+	b) Boise
+	c) Trenton
+	d) Santa Fe
+
+16. Capital of California is:
+	a) Sacramento
+	b) Helena
+	c) Carson City
+	d) Salt Lake City
+
+16. Capital of Texas is:
+	a) Dover
+	b) Trenton
+	c) Oklahoma City
+	d) Austin
+
+16. Capital of Kansas is:
+	a) Trenton
+	b) Topeka
+	c) Bismarck
+	d) Santa Fe
+
+16. Capital of Arizona is:
+	a) St. Paul
+	b) Springfield
+	c) Phoenix
+	d) Montpelier
+
+16. Capital of Ohio is:
+	a) Richmond
+	b) Columbus
+	c) Lincoln
+	d) Augusta
+
+16. Capital of Illinios is:
+	a) Denver
+	b) Concord
+	c) Springfield
+	d) Jackson
+
+16. Capital of Louisiana is:
+	a) Honolulu
+	b) Santa Fe
+	c) Baton Rouge
+	d) Cheyenne
+
+16. Capital of Oregon is:
+	a) Cheyenne
+	b) Carson City
+	c) Salem
+	d) Columbia
+
+16. Capital of Georgia is:
+	a) Harrisburg
+	b) Nashville
+	c) Montpelier
+	d) Atlanta
+
+16. Capital of Connecticut is:
+	a) Columbia
+	b) St. Paul
+	c) Hartford
+	d) Harrisburg
+
+16. Capital of Iowa is:
+	a) Des Monies
+	b) Trenton
+	c) Raleigh
+	d) Jefferson City
+
+16. Capital of Rhoda Island is:
+	a) Carson City
+	b) Raleigh
+	c) Providence
+	d) Denver
+
+16. Capital of Florida is:
+	a) Albany
+	b) Santa Fe
+	c) St. Paul
+	d) Tallahassee
+
+16. Capital of Wisconsin is:
+	a) Denver
+	b) Hartford
+	c) Boston
+	d) Madison
+
+16. Capital of North Carolina is:
+	a) Columbus
+	b) Raleigh
+	c) Salem
+	d) St. Paul
+
+16. Capital of Tennessee is:
+	a) Springfield
+	b) Nashville
+	c) Annapolis
+	d) Denver
+
+16. Capital of Virginia is:
+	a) Phoenix
+	b) Montpelier
+	c) Carson City
+	d) Richmond
+
+16. Capital of New Jersey is:
+	a) Trenton
+	b) Atlanta
+	c) Raleigh
+	d) Lansing
+
+16. Capital of Pennsylvania is:
+	a) Madison
+	b) Salem
+	c) Harrisburg
+	d) Lansing
+
+16. Capital of Missouri is:
+	a) Jefferson City
+	b) Hartford
+	c) Lincoln
+	d) Jackson
+
+16. Capital of Arkansas is:
+	a) Little Rock
+	b) Harrisburg
+	c) St. Paul
+	d) Hartford
+
+16. Capital of Montana is:
+	a) Pierre
+	b) Cheyenne
+	c) Austin
+	d) Helena
+
+16. Capital of Utah is:
+	a) Jackson
+	b) Montpelier
+	c) Boise
+	d) Salt Lake City
+
+16. Capital of Alabama is:
+	a) Lincoln
+	b) Madison
+	c) Montgomery
+	d) Topeka
+
+16. Capital of Alaska is:
+	a) Juneau
+	b) Pierre
+	c) Madison
+	d) Albany
+
+16. Capital of North Dakota is:
+	a) Dover
+	b) Annapolis
+	c) Bismarck
+	d) Concord
+
+16. Capital of Washington is:
+	a) Olympia
+	b) Columbia
+	c) Hartford
+	d) Cheyenne
+
+16. Capital of Maine is:
+	a) Charleston
+	b) Augusta
+	c) Concord
+	d) Sacramento
+
+16. Capital of Nebraska is:
+	a) Denver
+	b) Atlanta
+	c) Columbia
+	d) Lincoln
+
+16. Capital of South Dakoda is:
+	a) Hartford
+	b) Carson City
+	c) Madison
+	d) Pierre
+
+16. Capital of Vermont is:
+	a) Denver
+	b) Albany
+	c) Richmond
+	d) Montpelier
+
+16. Capital of Wyoming is:
+	a) Trenton
+	b) Cheyenne
+	c) Salem
+	d) Austin
+
+16. Capital of New York is:
+	a) Albany
+	b) Indianapolis
+	c) Topeka
+	d) Jefferson City
+
+16. Capital of West Virginia is:
+	a) Charleston
+	b) Honolulu
+	c) Nashville
+	d) Richmond
+
+16. Capital of Hawaii is:
+	a) Raleigh
+	b) St. Paul
+	c) Honolulu
+	d) Topeka
+
+16. Capital of Maryland is:
+	a) Montgomery
+	b) Richmond
+	c) Annapolis
+	d) Trenton
+
+16. Capital of New Hampshire is:
+	a) Des Monies
+	b) St. Paul
+	c) Concord
+	d) Madison
+
+16. Capital of Minnesota is:
+	a) Hartford
+	b) St. Paul
+	c) Santa Fe
+	d) Frankfort
+
+16. Capital of Oklahoma is:
+	a) Columbia
+	b) Annapolis
+	c) Oklahoma City
+	d) Columbus
+
+16. Capital of Indiana is:
+	a) Bismarck
+	b) Indianapolis
+	c) Topeka
+	d) Frankfort

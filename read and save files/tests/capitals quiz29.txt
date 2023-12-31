@@ -1,0 +1,306 @@
+name: 
+
+date: 
+
+                    USA states capitals quiz 29: 
+
+
+29. Capital of North Carolina is:
+	a) Raleigh
+	b) Montgomery
+	c) Montpelier
+	d) Indianapolis
+
+29. Capital of Neveda is:
+	a) Hartford
+	b) Carson City
+	c) Columbus
+	d) Harrisburg
+
+29. Capital of Mississippi is:
+	a) Springfield
+	b) Salt Lake City
+	c) Jackson
+	d) Topeka
+
+29. Capital of Tennessee is:
+	a) Nashville
+	b) Augusta
+	c) St. Paul
+	d) Carson City
+
+29. Capital of Texas is:
+	a) Columbia
+	b) Atlanta
+	c) Austin
+	d) Raleigh
+
+29. Capital of South Carolina is:
+	a) Helena
+	b) Columbia
+	c) Santa Fe
+	d) Frankfort
+
+29. Capital of Utah is:
+	a) Boston
+	b) Little Rock
+	c) St. Paul
+	d) Salt Lake City
+
+29. Capital of Rhoda Island is:
+	a) Indianapolis
+	b) Cheyenne
+	c) Bismarck
+	d) Providence
+
+29. Capital of North Dakota is:
+	a) Little Rock
+	b) Raleigh
+	c) Sacramento
+	d) Bismarck
+
+29. Capital of Wisconsin is:
+	a) Charleston
+	b) Madison
+	c) Olympia
+	d) Frankfort
+
+29. Capital of Florida is:
+	a) Santa Fe
+	b) Tallahassee
+	c) Frankfort
+	d) Columbus
+
+29. Capital of Kentucky is:
+	a) Albany
+	b) Honolulu
+	c) Frankfort
+	d) Trenton
+
+29. Capital of Maine is:
+	a) Jackson
+	b) Augusta
+	c) Harrisburg
+	d) Helena
+
+29. Capital of Indiana is:
+	a) Salt Lake City
+	b) Des Monies
+	c) Indianapolis
+	d) Columbia
+
+29. Capital of Illinios is:
+	a) Juneau
+	b) St. Paul
+	c) Springfield
+	d) Richmond
+
+29. Capital of Oklahoma is:
+	a) Dover
+	b) Montgomery
+	c) Oklahoma City
+	d) Sacramento
+
+29. Capital of Delaware is:
+	a) Des Monies
+	b) Honolulu
+	c) Indianapolis
+	d) Dover
+
+29. Capital of Montana is:
+	a) Helena
+	b) Baton Rouge
+	c) Jefferson City
+	d) Des Monies
+
+29. Capital of Idaho is:
+	a) Boise
+	b) Des Monies
+	c) Madison
+	d) Harrisburg
+
+29. Capital of South Dakoda is:
+	a) Pierre
+	b) Sacramento
+	c) Lincoln
+	d) Phoenix
+
+29. Capital of Nebraska is:
+	a) Little Rock
+	b) Lincoln
+	c) Topeka
+	d) Denver
+
+29. Capital of Ohio is:
+	a) Nashville
+	b) Cheyenne
+	c) Columbus
+	d) Santa Fe
+
+29. Capital of California is:
+	a) Springfield
+	b) Austin
+	c) Sacramento
+	d) Boston
+
+29. Capital of Arizona is:
+	a) Raleigh
+	b) Boise
+	c) Lincoln
+	d) Phoenix
+
+29. Capital of Michigan is:
+	a) St. Paul
+	b) Harrisburg
+	c) Lansing
+	d) Richmond
+
+29. Capital of Massachusetts is:
+	a) Phoenix
+	b) Juneau
+	c) Columbia
+	d) Boston
+
+29. Capital of Georgia is:
+	a) Atlanta
+	b) Charleston
+	c) Phoenix
+	d) Boston
+
+29. Capital of Hawaii is:
+	a) Honolulu
+	b) Des Monies
+	c) Salem
+	d) Frankfort
+
+29. Capital of Oregon is:
+	a) Salem
+	b) Sacramento
+	c) Raleigh
+	d) Topeka
+
+29. Capital of Virginia is:
+	a) Salem
+	b) Salt Lake City
+	c) Richmond
+	d) Providence
+
+29. Capital of Pennsylvania is:
+	a) Charleston
+	b) Concord
+	c) Harrisburg
+	d) Cheyenne
+
+29. Capital of Iowa is:
+	a) Columbia
+	b) Phoenix
+	c) Denver
+	d) Des Monies
+
+29. Capital of New Hampshire is:
+	a) Concord
+	b) Salem
+	c) Salt Lake City
+	d) Phoenix
+
+29. Capital of Vermont is:
+	a) Boston
+	b) Montpelier
+	c) Sacramento
+	d) Baton Rouge
+
+29. Capital of New Mexico is:
+	a) Baton Rouge
+	b) Santa Fe
+	c) Lincoln
+	d) Austin
+
+29. Capital of Alabama is:
+	a) Montgomery
+	b) Carson City
+	c) Denver
+	d) Little Rock
+
+29. Capital of Colorado is:
+	a) Boston
+	b) Denver
+	c) Tallahassee
+	d) St. Paul
+
+29. Capital of Arkansas is:
+	a) Indianapolis
+	b) Little Rock
+	c) Raleigh
+	d) Providence
+
+29. Capital of Kansas is:
+	a) Columbus
+	b) Hartford
+	c) Topeka
+	d) St. Paul
+
+29. Capital of Alaska is:
+	a) Richmond
+	b) Juneau
+	c) Honolulu
+	d) Topeka
+
+29. Capital of New York is:
+	a) Topeka
+	b) Austin
+	c) Columbia
+	d) Albany
+
+29. Capital of Missouri is:
+	a) Indianapolis
+	b) Frankfort
+	c) Columbia
+	d) Jefferson City
+
+29. Capital of Wyoming is:
+	a) Des Monies
+	b) Salt Lake City
+	c) Cheyenne
+	d) Bismarck
+
+29. Capital of Minnesota is:
+	a) St. Paul
+	b) Lincoln
+	c) Albany
+	d) Pierre
+
+29. Capital of Louisiana is:
+	a) Harrisburg
+	b) Jefferson City
+	c) Phoenix
+	d) Baton Rouge
+
+29. Capital of Maryland is:
+	a) Charleston
+	b) Annapolis
+	c) Austin
+	d) Raleigh
+
+29. Capital of Connecticut is:
+	a) Little Rock
+	b) Hartford
+	c) Charleston
+	d) Montgomery
+
+29. Capital of Washington is:
+	a) Olympia
+	b) Springfield
+	c) Jefferson City
+	d) Harrisburg
+
+29. Capital of New Jersey is:
+	a) Bismarck
+	b) Albany
+	c) Trenton
+	d) Montgomery
+
+29. Capital of West Virginia is:
+	a) Charleston
+	b) Jackson
+	c) Frankfort
+	d) Madison

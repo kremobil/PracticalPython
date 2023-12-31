@@ -1,0 +1,306 @@
+name: 
+
+date: 
+
+                    USA states capitals quiz 12: 
+
+
+12. Capital of Georgia is:
+	a) Atlanta
+	b) Jefferson City
+	c) Salt Lake City
+	d) Lansing
+
+12. Capital of Arizona is:
+	a) Topeka
+	b) Phoenix
+	c) Tallahassee
+	d) Lansing
+
+12. Capital of Rhoda Island is:
+	a) Dover
+	b) St. Paul
+	c) Little Rock
+	d) Providence
+
+12. Capital of West Virginia is:
+	a) Raleigh
+	b) Charleston
+	c) Salem
+	d) Dover
+
+12. Capital of Virginia is:
+	a) Richmond
+	b) Boston
+	c) Lincoln
+	d) Denver
+
+12. Capital of Alabama is:
+	a) Cheyenne
+	b) Montgomery
+	c) Richmond
+	d) Pierre
+
+12. Capital of Utah is:
+	a) Raleigh
+	b) Olympia
+	c) Salt Lake City
+	d) Montpelier
+
+12. Capital of Connecticut is:
+	a) Boise
+	b) Helena
+	c) Hartford
+	d) Bismarck
+
+12. Capital of Massachusetts is:
+	a) Tallahassee
+	b) Boston
+	c) Cheyenne
+	d) Lansing
+
+12. Capital of Alaska is:
+	a) Columbia
+	b) Raleigh
+	c) Denver
+	d) Juneau
+
+12. Capital of Arkansas is:
+	a) Little Rock
+	b) Topeka
+	c) Columbus
+	d) Annapolis
+
+12. Capital of Mississippi is:
+	a) Jackson
+	b) Charleston
+	c) St. Paul
+	d) Phoenix
+
+12. Capital of Hawaii is:
+	a) Pierre
+	b) Denver
+	c) Honolulu
+	d) Baton Rouge
+
+12. Capital of South Dakoda is:
+	a) Jefferson City
+	b) Salt Lake City
+	c) Pierre
+	d) Jackson
+
+12. Capital of South Carolina is:
+	a) Columbia
+	b) Lansing
+	c) Montgomery
+	d) Frankfort
+
+12. Capital of Wisconsin is:
+	a) Raleigh
+	b) Honolulu
+	c) Madison
+	d) Cheyenne
+
+12. Capital of Missouri is:
+	a) Providence
+	b) Jefferson City
+	c) Columbia
+	d) Baton Rouge
+
+12. Capital of New Hampshire is:
+	a) Albany
+	b) Concord
+	c) Springfield
+	d) Dover
+
+12. Capital of Vermont is:
+	a) Montpelier
+	b) Olympia
+	c) Boise
+	d) Pierre
+
+12. Capital of California is:
+	a) Charleston
+	b) Columbia
+	c) Honolulu
+	d) Sacramento
+
+12. Capital of Idaho is:
+	a) Jefferson City
+	b) Raleigh
+	c) Boise
+	d) Montpelier
+
+12. Capital of Nebraska is:
+	a) Lincoln
+	b) Topeka
+	c) Montpelier
+	d) Harrisburg
+
+12. Capital of New Mexico is:
+	a) Salem
+	b) Sacramento
+	c) Santa Fe
+	d) Jefferson City
+
+12. Capital of Indiana is:
+	a) Cheyenne
+	b) Indianapolis
+	c) Pierre
+	d) Baton Rouge
+
+12. Capital of Texas is:
+	a) Phoenix
+	b) Austin
+	c) Honolulu
+	d) Montpelier
+
+12. Capital of North Carolina is:
+	a) Nashville
+	b) Raleigh
+	c) Montgomery
+	d) Boston
+
+12. Capital of New Jersey is:
+	a) Des Monies
+	b) Denver
+	c) Lincoln
+	d) Trenton
+
+12. Capital of New York is:
+	a) Phoenix
+	b) Bismarck
+	c) Albany
+	d) Madison
+
+12. Capital of Oklahoma is:
+	a) Santa Fe
+	b) Oklahoma City
+	c) Raleigh
+	d) Carson City
+
+12. Capital of Ohio is:
+	a) Carson City
+	b) Atlanta
+	c) Charleston
+	d) Columbus
+
+12. Capital of Neveda is:
+	a) Concord
+	b) Bismarck
+	c) Madison
+	d) Carson City
+
+12. Capital of Montana is:
+	a) Atlanta
+	b) Charleston
+	c) Helena
+	d) Carson City
+
+12. Capital of Kentucky is:
+	a) Frankfort
+	b) Boise
+	c) Little Rock
+	d) Charleston
+
+12. Capital of Wyoming is:
+	a) Santa Fe
+	b) Cheyenne
+	c) Carson City
+	d) Annapolis
+
+12. Capital of Michigan is:
+	a) Lansing
+	b) Olympia
+	c) Salem
+	d) Santa Fe
+
+12. Capital of Florida is:
+	a) Jackson
+	b) Lincoln
+	c) Richmond
+	d) Tallahassee
+
+12. Capital of Maryland is:
+	a) Raleigh
+	b) Annapolis
+	c) St. Paul
+	d) Albany
+
+12. Capital of Louisiana is:
+	a) Baton Rouge
+	b) Boise
+	c) Albany
+	d) Hartford
+
+12. Capital of Oregon is:
+	a) Springfield
+	b) Denver
+	c) Raleigh
+	d) Salem
+
+12. Capital of Delaware is:
+	a) Phoenix
+	b) Honolulu
+	c) Dover
+	d) Baton Rouge
+
+12. Capital of Minnesota is:
+	a) Juneau
+	b) Indianapolis
+	c) St. Paul
+	d) Lansing
+
+12. Capital of Colorado is:
+	a) Charleston
+	b) Pierre
+	c) Denver
+	d) Oklahoma City
+
+12. Capital of Washington is:
+	a) Santa Fe
+	b) Topeka
+	c) Olympia
+	d) Nashville
+
+12. Capital of Tennessee is:
+	a) Juneau
+	b) Nashville
+	c) Bismarck
+	d) Pierre
+
+12. Capital of Kansas is:
+	a) St. Paul
+	b) Jefferson City
+	c) Topeka
+	d) Helena
+
+12. Capital of Pennsylvania is:
+	a) Nashville
+	b) Santa Fe
+	c) Boise
+	d) Harrisburg
+
+12. Capital of North Dakota is:
+	a) Salem
+	b) Frankfort
+	c) Pierre
+	d) Bismarck
+
+12. Capital of Iowa is:
+	a) Des Monies
+	b) Baton Rouge
+	c) Montgomery
+	d) Hartford
+
+12. Capital of Illinios is:
+	a) Lincoln
+	b) St. Paul
+	c) Indianapolis
+	d) Springfield
+
+12. Capital of Maine is:
+	a) Augusta
+	b) Atlanta
+	c) Columbia
+	d) Harrisburg

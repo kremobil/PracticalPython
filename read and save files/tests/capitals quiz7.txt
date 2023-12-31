@@ -1,0 +1,306 @@
+name: 
+
+date: 
+
+                    USA states capitals quiz 7: 
+
+
+7. Capital of Tennessee is:
+	a) Tallahassee
+	b) Santa Fe
+	c) Nashville
+	d) Atlanta
+
+7. Capital of Wisconsin is:
+	a) Madison
+	b) Denver
+	c) Augusta
+	d) Bismarck
+
+7. Capital of Oregon is:
+	a) Dover
+	b) Albany
+	c) Columbus
+	d) Salem
+
+7. Capital of California is:
+	a) Denver
+	b) Carson City
+	c) Columbia
+	d) Sacramento
+
+7. Capital of Massachusetts is:
+	a) Honolulu
+	b) Salem
+	c) Boston
+	d) Atlanta
+
+7. Capital of Florida is:
+	a) Tallahassee
+	b) Madison
+	c) Austin
+	d) Olympia
+
+7. Capital of Virginia is:
+	a) Oklahoma City
+	b) Richmond
+	c) Indianapolis
+	d) Columbia
+
+7. Capital of Maryland is:
+	a) Concord
+	b) Hartford
+	c) Jackson
+	d) Annapolis
+
+7. Capital of Mississippi is:
+	a) Providence
+	b) Jackson
+	c) Austin
+	d) Richmond
+
+7. Capital of North Dakota is:
+	a) Augusta
+	b) Harrisburg
+	c) Helena
+	d) Bismarck
+
+7. Capital of Arkansas is:
+	a) Santa Fe
+	b) Hartford
+	c) Little Rock
+	d) Pierre
+
+7. Capital of Delaware is:
+	a) Dover
+	b) Charleston
+	c) Salem
+	d) Columbia
+
+7. Capital of Montana is:
+	a) Columbus
+	b) Helena
+	c) Austin
+	d) Phoenix
+
+7. Capital of Minnesota is:
+	a) Augusta
+	b) Oklahoma City
+	c) Juneau
+	d) St. Paul
+
+7. Capital of New York is:
+	a) Concord
+	b) Albany
+	c) Boise
+	d) Jefferson City
+
+7. Capital of Hawaii is:
+	a) Salt Lake City
+	b) Honolulu
+	c) Salem
+	d) Phoenix
+
+7. Capital of Washington is:
+	a) Olympia
+	b) Annapolis
+	c) Austin
+	d) Hartford
+
+7. Capital of Arizona is:
+	a) Jackson
+	b) Phoenix
+	c) Dover
+	d) Frankfort
+
+7. Capital of Rhoda Island is:
+	a) Richmond
+	b) Frankfort
+	c) Springfield
+	d) Providence
+
+7. Capital of Iowa is:
+	a) Dover
+	b) Augusta
+	c) Honolulu
+	d) Des Monies
+
+7. Capital of Kansas is:
+	a) Harrisburg
+	b) Topeka
+	c) Juneau
+	d) Oklahoma City
+
+7. Capital of Wyoming is:
+	a) Columbia
+	b) Cheyenne
+	c) Richmond
+	d) Little Rock
+
+7. Capital of Missouri is:
+	a) Olympia
+	b) Columbus
+	c) Jefferson City
+	d) Bismarck
+
+7. Capital of New Jersey is:
+	a) Trenton
+	b) Nashville
+	c) Pierre
+	d) Atlanta
+
+7. Capital of New Mexico is:
+	a) Santa Fe
+	b) Raleigh
+	c) Austin
+	d) Sacramento
+
+7. Capital of Ohio is:
+	a) Indianapolis
+	b) Phoenix
+	c) Charleston
+	d) Columbus
+
+7. Capital of North Carolina is:
+	a) Olympia
+	b) Providence
+	c) Raleigh
+	d) Springfield
+
+7. Capital of Utah is:
+	a) Richmond
+	b) Honolulu
+	c) Salt Lake City
+	d) Sacramento
+
+7. Capital of Alabama is:
+	a) Hartford
+	b) Montgomery
+	c) Lincoln
+	d) Salem
+
+7. Capital of Texas is:
+	a) Richmond
+	b) Little Rock
+	c) Augusta
+	d) Austin
+
+7. Capital of South Dakoda is:
+	a) Columbus
+	b) Pierre
+	c) Trenton
+	d) Albany
+
+7. Capital of Michigan is:
+	a) Oklahoma City
+	b) Santa Fe
+	c) Lansing
+	d) Raleigh
+
+7. Capital of Pennsylvania is:
+	a) Santa Fe
+	b) Harrisburg
+	c) Carson City
+	d) Atlanta
+
+7. Capital of Louisiana is:
+	a) Dover
+	b) Baton Rouge
+	c) Topeka
+	d) Richmond
+
+7. Capital of Indiana is:
+	a) Indianapolis
+	b) Topeka
+	c) Columbus
+	d) Concord
+
+7. Capital of Illinios is:
+	a) Hartford
+	b) Lansing
+	c) Springfield
+	d) Tallahassee
+
+7. Capital of Colorado is:
+	a) Juneau
+	b) Denver
+	c) Indianapolis
+	d) Concord
+
+7. Capital of Alaska is:
+	a) Denver
+	b) Trenton
+	c) Little Rock
+	d) Juneau
+
+7. Capital of Vermont is:
+	a) Olympia
+	b) Montpelier
+	c) Helena
+	d) Austin
+
+7. Capital of West Virginia is:
+	a) Pierre
+	b) Charleston
+	c) Boise
+	d) Hartford
+
+7. Capital of South Carolina is:
+	a) Columbia
+	b) St. Paul
+	c) Austin
+	d) Topeka
+
+7. Capital of Oklahoma is:
+	a) Lansing
+	b) Trenton
+	c) Helena
+	d) Oklahoma City
+
+7. Capital of Kentucky is:
+	a) Austin
+	b) Charleston
+	c) Dover
+	d) Frankfort
+
+7. Capital of Connecticut is:
+	a) Pierre
+	b) Juneau
+	c) Providence
+	d) Hartford
+
+7. Capital of Idaho is:
+	a) Cheyenne
+	b) Boise
+	c) Pierre
+	d) Frankfort
+
+7. Capital of Nebraska is:
+	a) Denver
+	b) Atlanta
+	c) Bismarck
+	d) Lincoln
+
+7. Capital of Maine is:
+	a) Columbus
+	b) Lansing
+	c) Augusta
+	d) Jefferson City
+
+7. Capital of New Hampshire is:
+	a) Santa Fe
+	b) Atlanta
+	c) Providence
+	d) Concord
+
+7. Capital of Georgia is:
+	a) Santa Fe
+	b) Atlanta
+	c) Springfield
+	d) Oklahoma City
+
+7. Capital of Neveda is:
+	a) Atlanta
+	b) Carson City
+	c) Boston
+	d) Columbia
